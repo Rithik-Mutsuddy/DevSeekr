@@ -2,7 +2,7 @@
   "name": "devseekr",
   "version": "1.0.0",
   "description": "Projet dev par Ricardo, Rithik, Ludmyla, Dogukan et Yanis sur le sujet de recrutement developpeurs.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
