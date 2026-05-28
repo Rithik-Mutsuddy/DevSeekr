@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Rithik-Mutsuddy/DevSeekr#readme",
   "dependencies": {
-    "expo": "^56.0.6"
+    "expo": "^54.0.34"
   }
 }
