@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Rithik-Mutsuddy/DevSeekr/issues"
   },
-  "homepage": "https://github.com/Rithik-Mutsuddy/DevSeekr#readme"
+  "homepage": "https://github.com/Rithik-Mutsuddy/DevSeekr#readme",
+  "dependencies": {
+    "expo": "^56.0.6"
+  }
 }
