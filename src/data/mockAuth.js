@@ -1,4 +1,3 @@
-// Mock данные и функции для аутентификации (заглушки для тестирования)
 
 export async function mockLogin({ email, password }) {
   await new Promise((r) => setTimeout(r, 1000));
